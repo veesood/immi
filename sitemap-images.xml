@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <url>
+        <loc>https://immiworld.com.au/</loc>
+        <image:image>
+            <image:loc>https://immiworld.com.au/img/hero-bg.webp</image:loc>
+            <image:caption>Immi World - Australian Visa Consultation Services</image:caption>
+            <image:title>Australian Visa Experts</image:title>
+            <image:license>https://creativecommons.org/licenses/by/4.0/</image:license>
+        </image:image>
+        <image:image>
+            <image:loc>https://immiworld.com.au/img/about-team.jpg</image:loc>
+            <image:caption>Immi World Certified Migration Agents Team</image:caption>
+            <image:title>Professional Migration Agents</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Add more images as needed -->
+    
+</urlset>
